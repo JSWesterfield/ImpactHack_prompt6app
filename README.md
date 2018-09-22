@@ -1,6 +1,6 @@
 # ImpactHack_prompt6app
 
-One Paragraph of project description goes here
+:zap: One Paragraph of project description goes here :zap:
 
 ## Getting Started
 
